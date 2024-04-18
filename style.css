@@ -1,0 +1,15 @@
+
+.title{
+    margin: 100px 500px;
+    font-size: 3.5rem;
+}
+.counter{
+    margin:0 640px auto;
+    font-size: 3.5rem;
+}
+.btn{
+    margin: 80px 525px;
+}
+.btn button{
+    margin-right: 10px;
+}
